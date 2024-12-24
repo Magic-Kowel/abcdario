@@ -7,7 +7,7 @@ import {
   TextField,
   LinearProgress,
 } from "@mui/material";
-import Footer from "./componets/footer";
+import Footer from "./componets/Footer";
 import { useState, useEffect } from "react";
 import Swal from "sweetalert2";
 const abecedario = [
